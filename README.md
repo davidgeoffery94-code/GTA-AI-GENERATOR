@@ -1,1 +1,1 @@
-# GTA-AI-GENERATOR
+api/generate.js
